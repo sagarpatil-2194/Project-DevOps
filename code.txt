@@ -1,4 +1,1 @@
-This is day 1 code
-This is day 2 code
-This is day 3 code
-This is day 4 code
+This is day1 code
